@@ -16,7 +16,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:background="900"
+        android:background=""
         android:layout_margin="20dp"
         android:hint="Type Event"
         android:inputType="textShortMessage"
